@@ -1,0 +1,10 @@
+front end
+
+html
+css -tailwindcss
+js
+react
+
+backend
+
+drive.google.com/file/d/1u7JEBDaPoluru1xempFKvPuzMMCMXkzBN/view
